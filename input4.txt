@@ -1,0 +1,4 @@
+myClause(1,or(p,q)).
+myClause(2,or(neg(p),r)).
+myClause(3,or(neg(q),r)).
+myQuery(4,r).
